@@ -1,7 +1,3 @@
-Here's the README with added emojis for a more engaging and modern touch:
-
----
-
 # 🌏 Busan Travel Guide
 
 Welcome to the **Busan Travel Guide**—a meticulously crafted website dedicated to showcasing the rich cultural, historical, and culinary tapestry of Busan, South Korea. This project serves as a comprehensive digital guide for travelers seeking to explore one of Asia's most dynamic cities.
